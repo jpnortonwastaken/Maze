@@ -1,6 +1,6 @@
 ## Maze
 
-A program that displays a maze of a given size using Kruskal's algorithm and solves the maze using either a breath first search or depth first search approach.
+A program that displays a maze of a given size using Kruskal's algorithm and solves the maze using either a breath first search or depth first search algorithm.
 
 ## Language Used
 
